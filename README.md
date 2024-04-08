@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning front end and back end
-- 😄 Pronouns: he/she/they
+- 🌱 __I’m currently learning front end and back end;__
+- 🔍 __I also enjoy studying data science, machine learning and natural language processing (NLP)__
+- 😄 __Pronouns:__ he/she/they
 
 <div>
    <a href="https://github.com/beazinat">
