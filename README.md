@@ -6,8 +6,8 @@
 
 <div>
    <a href="https://github.com/beazinat">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beazinat&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beazinat&layout=compact&langs_count=6&theme=midnight-purple"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beazinat&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beazinat&layout=compact&langs_count=6&theme=vue-dark"/>
 </div>
     
 <div style="display: inline_block"><br>
