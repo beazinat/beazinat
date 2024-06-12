@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 __I’m currently learning front end and back end;__
+- 🌱 __I’m currently learning fullstack with Java and JavaScript;__
 - 🔍 __I also enjoy studying data science, machine learning and natural language processing (NLP)__
 - 😄 __Pronouns:__ he/she/they
 
