@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 __I’m currently learning fullstack with Java and JavaScript__
-- 🔍 __I also enjoy studying data science, machine learning and natural language processing (NLP)__
 - 😄 __Pronouns:__ he/she/they
 
 <div>
@@ -13,6 +12,7 @@
     
 <div style="display: inline_block"><br>
    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+   <img align="center" alt="Spring" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
    <img align="center" alt="Python" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
