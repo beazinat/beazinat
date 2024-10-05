@@ -1,16 +1,14 @@
 ### Howdy stranger👋
 
-![gif](https://github.com/user-attachments/assets/98b9cde2-04e3-48f3-8e13-f949142d2883)
+![Snoopy Magic]([https://github.com/user-attachments/assets/98b9cde2-04e3-48f3-8e13-f949142d2883](https://64.media.tumblr.com/112e616f8ee4b34ff28b7f8f004f1121/tumblr_pb7tmmj3zD1ro8ysbo1_500.gifv)
 
-
-- __I’m a fullstack developer based in Brazil! (Also a big fan of peanuts)__
-- __You can refer to me as__ he, she or they
+## __I’m a fullstack developer based in Brazil! (Also a big fan of peanuts)__
+## __You can refer to me as__ he, she or they
 
 <br>
 
 <div>
    <a href="https://github.com/beazinat">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beazinat&theme=omni&show_icons=true&hide_border=false&count_private=true"/>
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=beazinat&theme=omni&hide_border=false"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beazinat&theme=omni&show_icons=true&hide_border=false&layout=compact"/>
 </div>
