@@ -1,6 +1,6 @@
 ### Howdy stranger👋
 
-![image](https://github.com/user-attachments/assets/98b9cde2-04e3-48f3-8e13-f949142d2883)
+![gif](https://github.com/user-attachments/assets/98b9cde2-04e3-48f3-8e13-f949142d2883)
 
 
 - __I’m a fullstack developer based in Brazil! (Also a big fan of peanuts)__
