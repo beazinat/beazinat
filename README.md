@@ -1,6 +1,6 @@
-# Howdy stranger👋
+# 𝙃𝙤𝙬𝙙𝙮, 𝙨𝙩𝙧𝙖𝙣𝙜𝙚𝙧
 
-<img height="400em" align=center src="https://64.media.tumblr.com/112e616f8ee4b34ff28b7f8f004f1121/tumblr_pb7tmmj3zD1ro8ysbo1_500.gifv"/>
+<img height="400em" align="center" src="https://64.media.tumblr.com/112e616f8ee4b34ff28b7f8f004f1121/tumblr_pb7tmmj3zD1ro8ysbo1_500.gifv"/>
 
 ✾ __I’m a fullstack developer based in Brazil! (Also a big fan of peanuts)__<br>
 ✾ __You can refer to me as__ he, she or they
