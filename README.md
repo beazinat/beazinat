@@ -2,12 +2,13 @@
 
 <div align="center">
    <img height="400em" align="center" src="https://64.media.tumblr.com/112e616f8ee4b34ff28b7f8f004f1121/tumblr_pb7tmmj3zD1ro8ysbo1_500.gifv"/>
-   <br>
 </div>
-
+<br>
+<br>
 <p align="center">✾ 𝙄’𝙢 𝙖 𝙛𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙗𝙖𝙨𝙚𝙙 𝙞𝙣 𝘽𝙧𝙖𝙯𝙞𝙡! (𝘼𝙡𝙨𝙤 𝙖 𝙗𝙞𝙜 𝙛𝙖𝙣 𝙤𝙛 𝙥𝙚𝙖𝙣𝙪𝙩𝙨)</p>
 <p align="center">✾ 𝙔𝙤𝙪 𝙘𝙖𝙣 𝙧𝙚𝙛𝙚𝙧 𝙩𝙤 𝙢𝙚 𝙖𝙨 𝙝𝙚, 𝙨𝙝𝙚 𝙤𝙧 𝙩𝙝𝙚𝙮</p>
-
+<br>
+<br>
 <div align="center">
    <a href="https://github.com/beazinat">
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=beazinat&theme=omni&hide_border=false"/>
