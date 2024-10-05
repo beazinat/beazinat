@@ -1,9 +1,9 @@
-### Howdy stranger👋
+# Howdy stranger👋
 
-![Snoopy Magic](https://64.media.tumblr.com/112e616f8ee4b34ff28b7f8f004f1121/tumblr_pb7tmmj3zD1ro8ysbo1_500.gifv)
+<img height="200em" src="https://64.media.tumblr.com/112e616f8ee4b34ff28b7f8f004f1121/tumblr_pb7tmmj3zD1ro8ysbo1_500.gifv"/>
 
-## __I’m a fullstack developer based in Brazil! (Also a big fan of peanuts)__
-## __You can refer to me as__ he, she or they
+✾ __I’m a fullstack developer based in Brazil! (Also a big fan of peanuts)__
+✾ __You can refer to me as__ he, she or they
 
 <br>
 
