@@ -5,8 +5,8 @@
 </div>
 <br>
 <br>
-<p align="center"><strong><em>✾ I'm a fullstack developer and software engineering student based in Brazil! (Also a big peanuts fan... 😳)</em></strong></p>
-<p align="center"><strong><em>✾ You can refer to me as he, she or they 😉</em></strong></p>
+<p align="center"><strong><em>✾ I'm a fullstack developer and software engineering student based in Brazil! (Also a big peanuts fan...</em></strong> 😳<em><strong>)</em></strong></p>
+<p align="center"><strong><em>✾ You can refer to me as he, she or they </em></strong>😉</p>
 <br>
 <br>
 <div align="center">
