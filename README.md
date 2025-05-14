@@ -43,7 +43,7 @@
     <img align="center" alt="Figma" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 <h3><strong><em>You can find me here:</em></strong></h3>
-<div align="center">
+<div>
     <a href="https://discord.gg/beazinat" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
