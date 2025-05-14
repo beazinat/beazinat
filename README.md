@@ -20,7 +20,8 @@
          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beazinat&theme=omni&show_icons=true&hide_border=false&layout=compact&border_radius=45&title_color=A277FF&text_color=5CF1C0&bg_color=15141B"/>
     </a>
 </div>
-<h2><strong><em>Stuff I've already used:</em></strong></h2>
+<br>
+<h2 align="center"><strong><em>Stuff I've already used:</em></strong></h2>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img align="center" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" alt="Spring" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
