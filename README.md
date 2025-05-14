@@ -8,11 +8,11 @@
 <p align="center"><strong><em>✾ I'm a fullstack developer and software engineering student based in Brazil! (Also a big peanuts fan...</em></strong> 😳<em><strong>)</em></strong></p>
 <p align="center"><strong><em>✾ You can refer to me as he, she or they </em></strong>😉</p>
 <br>
-<br>
 <div align="center">
-   <a href="https://github.com/beazinat">
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=beazinat&theme=omni&hide_border=false"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beazinat&theme=omni&show_icons=true&hide_border=false&layout=compact"/>
+   <a href="https://git.io/streak-stats">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=beazinat&theme=aura&border_radius=45&card_width=560&card_height=200&ring=DA1E73E6" alt="GitHub Streak" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beazinat&theme=omni&show_icons=true&hide_border=false&layout=compact&border_radius=45&card_width=560&card_height=200&title_color=A277FF&text_color=5CF1C0&bg_color=15141B"/>
+   </a>
 </div>
 
 ## **_Stuff I've already used:_**
