@@ -6,9 +6,9 @@
          <img align="center" src=/assets/MagicSnoopy.gif/>
       </td>
       <td>
-         <p><strong><em>✾ I'm a fullstack developer and software engineer based in Brazil!</em></strong></p>
-         <p><strong><em>✾ Also a big Peanuts fan...</em></strong> 😳</em></strong></p>
-         <p><strong><em>✾ You can refer to me as he, she, or they </em></strong>😉</p>
+         <p><strong>✨ I'm a fullstack developer and software engineer based in Brazil!</strong></p>
+         <p><strong>✨ Also a huge Snoopy fan...</em></strong> 😳</strong></p>
+         <p><strong>✨ You can refer to me as he, she, or they </strong>😉</p>
       </td>
    </tr>
 </table>
@@ -21,7 +21,7 @@
     </a>
 </div>
 <br>
-<h2 align="center"><strong><em>Stuff I've already used:</em></strong></h2>
+<h2 align="center"><strong>Stuff I've already used:</strong></h2>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
     <img align="center" alt="Spring" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
@@ -37,7 +37,7 @@
     <img align="center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
-<h3><strong><em>You can find me here:</em></strong></h3>
+<h3><strong>You can find me here:</strong></h3>
 <div>
     <a href="https://discord.gg/beazinat" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
