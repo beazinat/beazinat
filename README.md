@@ -3,7 +3,7 @@
     <table align="center">
    <tr>
       <td>
-         <img align="center" src=/assets/MagicSnoopy.gif/>
+         <img align="center" alt="Magic Snoopy" src=assets/MagicSnoopy.gif>
       </td>
       <td>
          <p><strong>✨ I'm a fullstack developer and software engineer based in Brazil!</strong></p>
